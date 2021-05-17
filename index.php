@@ -226,7 +226,7 @@
             <div class="count-box">
               <i class="bi bi-people" style="color: #bb0852;"></i>
               <div>
-                <span data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="6" data-purecounter-duration="1" class="purecounter"></span>
                 <p>Hard Workers</p>
               </div>
             </div>
@@ -431,14 +431,14 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-logo">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-poster">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/PK_Kurmannapalem_fans_logo_1.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>PK Kurmannapalem fans</h4>
-                <p>Logo</p>
+                <p>Poster</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/PK_Kurmannapalem_fans_logo_1.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="PK Kurmannapalem fans Logo"><i class="bi bi-plus"></i></a>
+                  <a href="assets/img/portfolio/PK_Kurmannapalem_fans_logo_1.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="PK Kurmannapalem fans Poster"><i class="bi bi-plus"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                 </div>
               </div>
@@ -481,20 +481,6 @@
                 <p>Logo</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/Lead_skanda_logo_1.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Lead skanda Logo"><i class="bi bi-plus"></i></a>
-                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-logo">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/Squaracle_logo.jpeg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Squaracle</h4>
-                <p>Logo</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/Squaracle_logo.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Squaracle Logo remake"><i class="bi bi-plus"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                 </div>
               </div>
@@ -599,20 +585,6 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/Aadivas_Foods_pvt_ltd_website.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Aadivas Foods pvt ltd</h4>
-                <p>Website</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/Aadivas_Foods_pvt_ltd_website.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Aadivas Foods pvt ltd Website"><i class="bi bi-plus"></i></a>
-                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
-                </div>
-              </div>
-            </div>
-          </div>
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-logo">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/aasya_foundation_logo.jpeg" class="img-fluid" alt="">
@@ -621,6 +593,20 @@
                 <p>Logo</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/aasya_foundation_logo.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Aasya foundation Logo remake"><i class="bi bi-plus"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/Aadivas_Foods_pvt_ltd_website.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Aadivas Foods pvt ltd</h4>
+                <p>Website</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/Aadivas_Foods_pvt_ltd_website.png" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Aadivas Foods pvt ltd Website"><i class="bi bi-plus"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a> -->
                 </div>
               </div>
@@ -1043,7 +1029,7 @@
         &copy; Copyright <strong><span>Pravishree Designs</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-        Designed by Karthik Dasari
+        Designed by Pravishree team
       </div>
     </div>
   </footer><!-- End Footer -->
