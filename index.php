@@ -80,7 +80,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">We offer modern solutions for growing your business</h1>
+          <h1 data-aos="fade-up">Modern solutions for growing your business</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">We are team of young professionals working hard to bring all Graphics works into a single platform</h2>
           <div data-aos="fade-up" data-aos-delay="600">
             <!-- <div class="text-center text-lg-start">
@@ -760,8 +760,7 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h2>Team</h2>
-          <p>Our hard working team</p>
+          <p>Our Team</p>
         </header>
 
         <div class="row gy-4">
